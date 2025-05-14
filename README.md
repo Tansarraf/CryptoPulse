@@ -1,4 +1,4 @@
-# <img src="https://github.com/Tansarraf/CryptoPulse/blob/main/assets/coin.jpg?raw=true" height="15px" width="15px"> CryptoPulse
+# <img src="https://github.com/Tansarraf/CryptoPulse/blob/main/assets/coin.jpg?raw=true" height="35px" width="35px"> CryptoPulse
 
 **CryptoPulse** is a modern, responsive cryptocurrency tracking web application designed to deliver **real-time market insights**. Designed with both usability and performance in mind, the application provides users with live market data, price charts, and key metrics for hundreds of cryptocurrencies. Whether you're a beginner or a crypto enthusiast, CryptoPulse offers a smooth, fast, and informative way to explore the cryptocurrency market.
 
