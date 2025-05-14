@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Features
+## Features
 
 - 📈 Live crypto market updates
 - 🔍 Search and filter cryptocurrencies
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **ReactJS** – Frontend framework
 - **CoinGecko API** – Real-time crypto market data
@@ -23,10 +23,18 @@
 
 ---
 
-## 🤝 Contributing
+## Future Improvements
+
+- User Authentication (Sign In/Sign Up)
+- Price Alerts / Notifications
+- Historical Data Range Selector (1D, 7D, 1M, 1Y, ALL)
+
+---
+
+## Contributing
 Have ideas for improvement? Feel free to fork the repository, make changes, and submit a pull request!
 
 ---
 
-## 📬 Contact
+## Contact
 For any queries or suggestions, reach out via sarraftanishk4@gmail.com or open an issue on GitHub.
