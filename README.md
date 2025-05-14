@@ -1,12 +1,32 @@
-# React + Vite
+# 🚀 CryptoPulse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CryptoPulse** is a modern, responsive cryptocurrency tracking web application designed to deliver **real-time market insights**. Designed with both usability and performance in mind, the application provides users with live market data, price charts, and key metrics for hundreds of cryptocurrencies. Whether you're a beginner or a crypto enthusiast, CryptoPulse offers a smooth, fast, and informative way to explore the cryptocurrency market.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 📈 Live crypto market updates
+- 🔍 Search and filter cryptocurrencies
+- 💹 Detailed coin pages with price, volume, charts, and more
+- 📱 Fully responsive and mobile-friendly design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **ReactJS** – Frontend framework
+- **CoinGecko API** – Real-time crypto market data
+- **React Router** – Client-side routing
+- **Axios** – For making API requests
+- **CSS** – Responsive and modern styling
+
+---
+
+## 🤝 Contributing
+Have ideas for improvement? Feel free to fork the repository, make changes, and submit a pull request!
+
+---
+
+## 📬 Contact
+For any queries or suggestions, reach out via sarraftanishk4@gmail.com or open an issue on GitHub.
