@@ -1,4 +1,4 @@
-# 🚀 CryptoPulse
+# ![photo_2025-05-15_01-34-02](https://github.com/user-attachments/assets/8c038163-9019-4a25-8f58-64a6f5cc2dea) CryptoPulse
 
 **CryptoPulse** is a modern, responsive cryptocurrency tracking web application designed to deliver **real-time market insights**. Designed with both usability and performance in mind, the application provides users with live market data, price charts, and key metrics for hundreds of cryptocurrencies. Whether you're a beginner or a crypto enthusiast, CryptoPulse offers a smooth, fast, and informative way to explore the cryptocurrency market.
 
